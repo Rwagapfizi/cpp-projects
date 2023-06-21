@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
-#include <iostream>
 #include <ctime>
+#include <iostream>
 #include <string>
 #include <sstream>
 #include <vector>
